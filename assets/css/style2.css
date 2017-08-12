@@ -153,6 +153,7 @@ h3,
   height: 62px;
   margin-top: 8px;
   margin-right: 5px;
+  border-radius: 8px;
 }
 
 .social:last-child {
